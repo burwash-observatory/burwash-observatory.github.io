@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Spectroscopes"
-    URL: "/_pages/spectroscopes"
+    url: "/_pages/spectroscopes"
   - title: "Telescopes"
-    URL: "/_pages/telescopes"
+    url: "/_pages/telescopes"
 sidemenu:
     - title: "Observations"
       children:
