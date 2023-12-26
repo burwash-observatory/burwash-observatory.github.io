@@ -1,5 +1,5 @@
 # main links
-main:
+sidemenu:
     - title: "Observations"
       children:
         - title: "Spectroscopy"
