@@ -1,4 +1,9 @@
 # main links
+main:
+  - title: "Spectroscopes"
+    URL: "/_pages/spectroscopes"
+  - title: "Telescopes"
+    URL: "/_pages/telescopes"
 sidemenu:
     - title: "Observations"
       children:
@@ -6,12 +11,12 @@ sidemenu:
           url: "/categories/#observation-spectroscopy/"
         - title: "Astrophotography"
           url: "/categories/#observation-astrophotography/"
-    - title: "Equipment"
+    - title: "Targets"
       children:
-        - title: "Spectroscopes"
-          url: "/categories/#spectroscopes/"
-        - title: "Telescopes"
-          url: "/categories/#telescopes/"
+        - title: "Arcturus"
+          url: "/categories/#arcturus/"
+        - title: "Vega"
+          url: "/categories/#vega/"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
