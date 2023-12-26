@@ -292,3 +292,9 @@ defaults:
       related: true
       sidebar:
         nav: "sidemenu"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "sidemenu"
