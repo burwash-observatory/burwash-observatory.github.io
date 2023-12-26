@@ -286,15 +286,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
       sidebar:
         nav: "sidemenu"
   - scope:
       path: ""
       type: pages
     values:
+      layout: single
       sidebar:
         nav: "sidemenu"

@@ -3,15 +3,15 @@ sidemenu:
     - title: "Observations"
       children:
         - title: "Spectroscopy"
-          url: "/Spectroscopy/"
+          url: "/spectroscopy/"
         - title: "Astrophotography"
-          url: "Astrophotography"
+          url: "/astrophotography/"
     - title: "Equipment"
       children:
         - title: "Spectroscopes"
-          url: "/Spectroscopes/"
+          url: "/spectroscopes/"
         - title: "Telescopes"
-          url: "/Telescopes/"
+          url: "/telescopes/"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
