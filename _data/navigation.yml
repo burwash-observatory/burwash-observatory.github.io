@@ -1,5 +1,17 @@
 # main links
 main:
+    - title: "Observations"
+      children:
+        - title: "Spectroscopy"
+          url: "/Spectroscopy/"
+        - title: "Astrophotography"
+          url: "Astrophotography"
+    - title: "Equipment"
+      children:
+        - title: "Spectroscopes"
+          url: "/Spectroscopes/"
+        - title: "Telescopes"
+          url: "/Telescopes/"
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
