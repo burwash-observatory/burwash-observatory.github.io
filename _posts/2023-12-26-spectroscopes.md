@@ -6,9 +6,9 @@ categories:
   - Spectroscopes
 tags:
   - Spectroscopes
-  - Star Anslyser
+  - Star Analyser
   - Star'Ex
-  - Lospec
-  - Solex
+  - Lowspec
+  - Sol'Ex
 ---
 ## Spectroscopes
